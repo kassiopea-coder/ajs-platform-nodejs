@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platform-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kassiopea-coder/ajs-platform-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kassiopea-coder/ajs-platform-nodejs/issues"
+  },
+  "homepage": "https://github.com/kassiopea-coder/ajs-platform-nodejs#readme",
+  "dependencies": {
+    "@kassiopea-coder/ajs-nodejs": "^1.0.0"
+  }
+}
